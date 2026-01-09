@@ -123,13 +123,18 @@ boar-detection-system/
 │   ├── locations_summary.csv       # 위치별 통계
 │   └── results.csv                 # 모델 성능 결과
 │
-├── weights/
+├── runs/boar_detection_v2_epoch50/weights/
 │   └── best.pt                     # YOLOv8m 학습 완료 모델
 │
 ├── detection_results/              # 탐지 결과 저장 폴더
 │   ├── *.jpg                       # 탐지된 이미지
 │   └── *.json                      # 탐지 메타데이터
-│
+|
+├── yolo_dataset/
+│   ├── test
+│   ├── train
+│   └── val
+|
 ├── requirements.txt                # 의존성 라이브러리
 ├── README.md                       # 프로젝트 문서 (본 파일)
 └── LICENSE                         # MIT 라이선스
