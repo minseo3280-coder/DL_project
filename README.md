@@ -75,8 +75,7 @@
 | **빠른 추론 속도** | 실시간 확장 가능성|
 | **성능 대비 효율** | 정확도 손실 최소|
 
-
-(https://github.com/minseo3280-coder/DL_project/blob/main/YOLOv8_model.png?raw=true)
+<img src="YOLOv8_model_Sizes.PNG">
 
 
 > YOLOv8m 대비 정확도 차이는 크지 않으나,
@@ -193,6 +192,10 @@ streamlit run app.py
 - 위험도 점수 즉시 계산
 - 관리자 대응 가이드 자동 생성
 - 탐지 결과 저장 (이미지 + JSON)
+
+
+<img src="멧돼지.jpg">
+
 
 **위험도 평가:**
 ```
