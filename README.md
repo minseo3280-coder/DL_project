@@ -76,7 +76,7 @@
 | **성능 대비 효율** | 정확도 손실 최소|
 
 
-- **yolov8_model_sizes 그래프 추가**
+(https://github.com/minseo3280-coder/DL_project/blob/main/YOLOv8_model.png?raw=true)
 
 
 > YOLOv8m 대비 정확도 차이는 크지 않으나,
