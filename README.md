@@ -21,12 +21,11 @@
 
 ## 🛠 기술 스택
 
-- **Language**: Python 3.9+
+- Python 3.9+ (Pandas, NumPy)
 - **Deep Learning**: YOLOv8 (Ultralytics)
 - **Computer Vision**: OpenCV
-- **Web**: Streamlit
-- **Data Processing**: Pandas, NumPy
-- **Visualization**: Matplotlib
+- Streamlit (웹 애플리케이션)
+- Matplotlib (데이터 시각화)
 - **Environment**: Google Colab, VS Code
 - **Version Control**: Git, GitHub
 
