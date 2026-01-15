@@ -282,9 +282,9 @@ streamlit run app.py
 
 | 지표 | 값 |
 |------|-----|
-| **mAP (Mean Average Precision)** | 97.5% |
-| **Precision** | 96.8% |
-| **Recall** | 98.2% |
+| **mAP (Mean Average Precision)** | 98.8% |
+| **Precision** | 99.5% |
+| **Recall** | 99.3% |
 | **탐지 속도** | 5-7초/이미지 |
 | **학습 데이터** | 31,697개 이미지 |
 | **촬영 위치** | 16개 (강원도 일대) |
