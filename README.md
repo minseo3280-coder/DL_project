@@ -27,7 +27,7 @@
 - Streamlit (웹 애플리케이션)
 - Matplotlib (데이터 시각화)
 - **Environment**: Google Colab, VS Code
-- **Version Control**: Git, GitHub
+
 
 ---
 
